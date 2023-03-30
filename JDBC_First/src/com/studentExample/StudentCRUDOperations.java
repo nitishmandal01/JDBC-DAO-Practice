@@ -9,7 +9,7 @@ import java.time.LocalDate;
 import java.util.ResourceBundle;
 import java.util.Scanner;
 
-public class DBConnectionExample {
+public class StudentCRUDOperations {
 	
 	static Connection getConnectionToDatabase() throws ClassNotFoundException, SQLException {
 		//Step1: load the Driver class
