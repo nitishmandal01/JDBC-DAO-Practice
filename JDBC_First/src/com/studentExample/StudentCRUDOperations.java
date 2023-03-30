@@ -180,9 +180,7 @@ public static void main(String[] args) throws ClassNotFoundException, SQLExcepti
 	Scanner sc = new Scanner(System.in);
 	
 	//create Main menu
-	
 	System.out.println("Select from below");
-	
 	int choice = 0;
 	
 	do {
